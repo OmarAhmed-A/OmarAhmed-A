@@ -3,7 +3,7 @@
 
 I'm Omar I Love code and computers and usually stay up until 4 am exploring obscure bugs, Look around and maybe check out my website [half-baked portfolio website](https://codebyomar.ml) 
 
-You can contact me through [email](mailto:omarahmed170@gmail.com) {omarahmed170@gmail.com}
+You can contact me through omarahmed170@gmail.com
 ## Here are my stats
 
 
