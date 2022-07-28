@@ -10,4 +10,4 @@ You can contact me through omarahmed170@gmail.com
 
 stats             |  languages
 :-------------------------:|:-------------------------:
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAhmed-A&show_icons=true&theme=nightowl)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAhmed-A&layout=compact&langs_count=15&exclude_repo=PortfolioWebsite&hide=html)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAhmed-A&show_icons=true&theme=nightowl)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAhmed-A&layout=compact&langs_count=15&exclude_repo=PortfolioWebsite&hide=html,Jupyter notebook)
