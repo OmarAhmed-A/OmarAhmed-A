@@ -1,4 +1,4 @@
-# Hey, its nice to see you.
+# Hey, it's nice to see you.
 ![Greeting?](https://media.giphy.com/media/fPSxQDOJ7bGso/giphy.gif)
 
 I'm Omar I Love code and computers and usually stay up until 4 am exploring obscure bugs, Look around and maybe check out my website [portfolio website](https://codebyomar.tk) 
