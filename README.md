@@ -1,5 +1,5 @@
 # Hey, it's nice to see you.
-![Greeting?](https://media.giphy.com/media/fPSxQDOJ7bGso/giphy.gif)
+![Greeting?](https://media.giphy.com/media/1kJxyyCq9ZHXX0GM3a/giphy.gif)
 
 I'm Omar I Love code and computers and usually stay up until 4 am exploring obscure bugs, Look around and maybe check out my website [portfolio website](https://codebyomar.tk) 
 
