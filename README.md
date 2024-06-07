@@ -1,7 +1,7 @@
 # Hey, it's nice to see you.
 ![Greeting?](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
-I'm Omar I Love code and computers and usually stay up until 4 am exploring obscure bugs, Look around and maybe check out my website [portfolio website](https://omarcodes.me) 
+I'm Omar I Love code and computers and usually stay up until 4 am exploring obscure bugs, Look around and maybe check out my website [portfolio website](https://omarx.uk) 
 
 You can contact me through omarahmed170@gmail.com
 ## Here are my stats
