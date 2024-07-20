@@ -3,7 +3,7 @@
 
 I'm Omar I Love code and computers and usually stay up until 4 am exploring obscure bugs, Look around and maybe check out my website [portfolio website](https://omarx.uk) 
 
-You can contact me through omarahmed170@gmail.com
+You can contact me through omar@omarx.uk
 ## Here are my stats
 
 
